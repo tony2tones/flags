@@ -1,6 +1,12 @@
 # Flags
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.2.
+This is the quickest way I know how to add flags to an Angular project.
+
+Please be sure to check out my blog comment on some things you dont think is true or maybe you find something useful.
+
+Enjoy stay safe and visit my site :)
+
+`www.pixel-tones.com`
 
 ## Development server
 
@@ -24,4 +30,5 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 ## Further help
 
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.2.
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
