@@ -6,7 +6,7 @@ Please be sure to check out my blog comment on some things you dont think is tru
 
 Enjoy stay safe and visit my site :)
 
-[pixel-tones](www.pixel-tones.com)
+[pixel-tones](https://pixel-tones.com/)
 
 ## Development server
 
